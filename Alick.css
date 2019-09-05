@@ -1,0 +1,40 @@
+body {
+    background-color: #e3e3e3;
+    color: black;
+    font-family:Times New Roman;
+}
+h1 {
+    text-align:center;
+    font-family: Times New Roman;
+    font-size: 4.5rem;
+    color: black;
+    text-shadow: 5px 2px 4px grey;
+}
+/*Profile Picture Floated*/
+img {
+    float: left;
+    border-radius: 50%;
+    color: white;
+    height: 230px;
+    width: 200px;
+    margin-right: 2.0rem;
+}
+/*Contact details in a tabular form*/
+table.center {
+    border:none;
+    font-family: Times New Roman;
+    font-size: 2.0rem;
+    color: black;
+}
+h2 {
+    font-size: 3.5rem;
+    color: black;
+    text-shadow: 5px 2px 4px grey;
+}
+h3 {
+    color: black;
+    font-size: 2rem;
+}
+li {
+    list-style:circle;
+}
